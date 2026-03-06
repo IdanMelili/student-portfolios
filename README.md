@@ -6,6 +6,15 @@ This repository serves as a central portfolio for all students to showcase code,
 ---
 
 ## Repository Structure
+```
+first-last-name/
+├── doc/                                # citations / sources         
+├── presentation/                       # links to presentation videos
+│   └── link_to_presentation.txt
+├── src/                                # optional source code
+└── README.md                           # description of their project
+```
+
 
 /students/
 /first-last-name/
